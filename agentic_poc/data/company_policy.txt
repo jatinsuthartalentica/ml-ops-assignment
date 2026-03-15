@@ -1,0 +1,6 @@
+Company Policy Overview:
+1. Remote Work: Employees are allowed to remote work 3 days a week.
+2. Hardware: Every engineer gets a MacBook Pro M3 Max upon joining.
+3. PTO: Unlimited PTO is approved upon manager discretion, minimum 2 weeks required.
+4. Server Architecture: All production ML models are deployed on KServe using AWS EKS clusters.
+5. ML CI/CD: We use GitHub actions for all pipeline orchestration, and MLFlow for experiment tracking.

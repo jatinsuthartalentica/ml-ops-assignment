@@ -1,0 +1,31 @@
+MLOps Platform Engineering Course (AWS / GCP),,,,,,,
+S.No.,Module,Key Topics,Assignment Problem Statement,,,,YouTube / Udemy Reference
+1,MLOps Fundamentals,"Lifecycle, architecture",ML systems fail without structured lifecycle management.,,,,Google Cloud MLOps Explained
+2,Data Versioning,"DVC, S3/GCS",Training data changes break reproducibility.,,,,DVC Official Tutorial
+3,Experiment Tracking,MLflow tracking,Experiments are lost without tracking.,,,,MLflow Tutorial � Krish Naik
+4,Model Registry,"Promotion, rollback",No governance over deployed models.,,,,MLflow Model Registry
+5,Training Pipelines,Argo Workflows,Manual training is not scalable.,,,,Argo Workflows Crash Course
+6,Model Serving,KServe,Ad-hoc serving lacks scalability.,,,,KServe Explained
+7,CI/CD for ML,GitHub Actions,ML changes need controlled releases.,,,,CI/CD for MLOps
+8,Monitoring & Drift,"Metrics, drift",Model quality degrades silently.,,,,Model Drift Explained
+9,Security & Governance,"IAM, audit",Unsecured ML assets risk compliance.,,,,Secure MLOps on Kubernetes
+10,LLM & Agentic Basics,"LLMs, prompts, agents, tools",Current chatbots fail to reason or take actions autonomously.,,,,
+11,Python for Agents,"FastAPI, async, APIs",Agents need reliable backend APIs to interact with systems.,,,,
+12,Agent Frameworks,"LangGraph, CrewAI",Manual orchestration of agent logic is error-prone.,,,,
+13,RAG Systems,"Embeddings, vector DB",LLMs hallucinate without grounding in enterprise data.,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,https://openrouter.ai/,,,,,,
+,,,,,,,
+Video 1  Mandatory,MLOps Fundamentals,https://www.youtube.com/watch?v=NgWujOrCZFo&list=PLkDaE6sCZn6GMoA0wbpJLi3t34Gd8l0aK&index=1,,,,,
+Video 2 Mandatory,Assignment 1(MLFLOW),https://www.youtube.com/watch?v=86BKEv0X2xU&list=PLvIRdsEfIUenrSe4T0z38EKH1kselN-RN,,,,,
+VIdeo 3 Mandatory,Assignment 2 (KUBEFLOW),https://www.youtube.com/watch?v=5iOQcGfcZe4,,,,,
+Video 4 Mandatory,Assignment (3) Agentic AI ,https://www.youtube.com/watch?v=jGg_1h0qzaM,,,,,
+Video 5,MCP Servers,https://www.youtube.com/watch?v=MDBG2MOp4Go,,,,,
+Video 6,Fast API,https://www.youtube.com/watch?v=MDBG2MOp4Go,,,,
+,

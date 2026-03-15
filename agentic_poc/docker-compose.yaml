@@ -1,0 +1,14 @@
+version: '3.8'
+
+services:
+  agentic_api:
+    build: .
+    ports:
+      - "8000:8000"
+    environment:
+      # Inject the API Key here for the container
+      - OPENROUTER_API_KEY=${OPENROUTER_API_KEY}
+    volumes:
+      # Mount the Chroma DB directory so it persists across container restarts
+      - ./chroma_db:/app/chroma_db
+    restart: unless-stopped
